@@ -1,0 +1,6 @@
+{
+  "name": "Delivo",
+  "description": "A high-fidelity multi-role delivery simulation ecosystem showcasing the Customer App, Delivery Partner App, and Admin Panel with real-time state synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

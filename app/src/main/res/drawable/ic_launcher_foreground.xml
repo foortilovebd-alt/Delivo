@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Speed Lines (Motion blur) -->
+    <path
+        android:fillColor="#FF9E43"
+        android:pathData="M22,46 L40,46 L38,49 L20,49 Z" />
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M16,52 L36,52 L34,55 L14,55 Z" />
+    <path
+        android:fillColor="#FF9E43"
+        android:pathData="M25,58 L42,58 L40,61 L23,61 Z" />
+
+    <!-- Isometric Delivery Box -->
+    <!-- Top Face (Light Orange) -->
+    <path
+        android:fillColor="#FF9E43"
+        android:pathData="M58,28 L78,38 L58,48 L38,38 Z" />
+        
+    <!-- Left Face (Medium Orange) -->
+    <path
+        android:fillColor="#FF7D1A"
+        android:pathData="M38,38 L58,48 L58,74 L38,64 Z" />
+        
+    <!-- Right Face (Dark Orange Accent) -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M58,48 L78,38 L78,64 L58,74 Z" />
+        
+    <!-- Box Tape Stripe (Modern Detail) -->
+    <path
+        android:fillColor="#0C1015"
+        android:pathData="M55,30.5 L61,33.5 L55,36.5 L49,33.5 Z" />
+    <path
+        android:fillColor="#0C1015"
+        android:pathData="M55,36.5 L55,49 L49,46 L49,33.5 Z" />
+    <path
+        android:fillColor="#0C1015"
+        android:pathData="M55,36.5 L61,33.5 L61,46 L55,49 Z" />
+
+    <!-- Fast Accent Ring -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M58,78 C42.53,78 30,65.47 30,50 C30,47.5 30.32,45.1 30.93,42.8 L33.98,43.8 C33.48,45.8 33.2,47.9 33.2,50 C33.2,63.7 44.3,74.8 58,74.8 C71.7,74.8 82.8,63.7 82.8,50 C82.8,36.3 71.7,25.2 58,25.2 L58,22 C73.47,22 86,34.53 86,50 C86,65.47 73.47,78 58,78 Z" />
+</vector>
